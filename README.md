@@ -1,10 +1,10 @@
 # Internship-shop
 
-This application was created for internship application purpose 😎
+## This application was created for internship application purpose 😎
 
 Live: https://internship-shop-ckgoh2nhd-havefun.vercel.app/
 
-Run locally:
+### Run locally:
 Open your terminal and then type
 $ git clone {the url to the GitHub repo}
 
